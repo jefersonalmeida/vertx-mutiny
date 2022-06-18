@@ -1,0 +1,7 @@
+### GET users
+GET http://localhost:8111
+Accept: application/json
+
+### GET users
+GET http://localhost:8111/users
+Accept: application/json
